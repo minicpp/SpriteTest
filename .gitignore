@@ -1,0 +1,10 @@
+CocosRender2
+CocosRender/proj.*
+CocosRender/bin/*/win32
+CocosRender/cocos2d
+HbeRender/build/*
+HbeRender/app/build/*
+!HbeRender/app/build/output
+SurfaceViewRender/build/*
+SurfaceViewRender/app/build/*
+!SurfaceViewRender/app/build/output
