@@ -25,4 +25,4 @@ cocos2dx=[60, 60, 60, 60, 60, 60, 60, 53, 42, 37, 30, ...,  %0~1000
  xlim([-100, 5100]);
  xlabel('The number of sprites with size as 32x32 pixels, running on Nexus 7 tablet.');
  ylabel('Frames per second (FPS)');
- legend({'HummingBird','Cocos2d-x v3.11','Android 6.0 Canvas'});
+ legend({'HummingBird Game Engine','Cocos2d-x v3.11','Android 6.0 Canvas'});
